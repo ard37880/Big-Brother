@@ -18,7 +18,7 @@ intents.members = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 voice_channel_join_times = {}
-log_channel_id = 1224033772597674054
+log_channel_id = #YOUR LOG CHANNEL HERE
 profanity_list = words
 
 
