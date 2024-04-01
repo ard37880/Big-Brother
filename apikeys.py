@@ -1,1 +1,1 @@
-discord_key = "MTIyNDEyMDc1NTI0ODE2OTA4NQ.GSqvke.FZD1gudA14jfXIny1dM9tX05Ml9J6GuwIaG5L0"
+discord_key = "YOUR TOKEN HERE"
